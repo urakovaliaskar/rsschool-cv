@@ -27,7 +27,7 @@ Card.prototype.createNode = function () {
 
 ### Education
 
-Suleyman Demirel University (2011-2015)  
+Suleyman Demirel University (2011-2015)<br/>
 L.N. GUMILYOV EURASIAN NATIONAL UNIVERSITY (2017-2019)
 
 ### English
